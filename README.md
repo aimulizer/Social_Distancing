@@ -2,6 +2,9 @@
 A social distancing program written in python uses object detection and eucleadian geometry.
 <br>
 For object detection i used yolo v3 
+<h2>  IMPLEMENT</h2>
+    To implement this program download this file. and get the yolo weight, cfg files and also coco.names file as the yolo v3 is trained on ms-coco dataset
+    and also change the required directory path in the code. You can implement ths on any video or camera feed but make sure to provide the path for it beforehand       executing the code.
 
 <h2>  RESULTS</h2>
 <img src="social distancing/1.png">
